@@ -1,0 +1,2 @@
+# Movie Data Analytics
+The idea is to take the dump of movie names and ratings, load data into HDFS, perform various forms of analysis.
