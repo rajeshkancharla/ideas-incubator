@@ -1,2 +1,0 @@
-# Hadoop Eco System
-The idea is to create a set of files and scripts so that an end to end overview of Hadoop Eco system can be obtained. It deals with data landing from relational database into HDFS, processing data in HDFS, extracting data and analysing it.
